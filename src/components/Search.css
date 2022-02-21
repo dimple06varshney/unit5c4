@@ -1,0 +1,9 @@
+#search-result{
+    display: grid;
+    width: 80%;
+    grid-template-columns: repeat(2, 40%);
+    margin: auto;
+}
+#search-result > div{
+    border: 1px solid black;
+}
